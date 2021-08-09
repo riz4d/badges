@@ -39,9 +39,8 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Blog](#blog)
     - [Office](#office)
     - [Other](#other)
-  - [Contribution](#contribution)
-  - [Contact](#contact)
-  - [License](#license)
+  - [Contact](https://www.instagram.com/rizad__x96)
+  - [License](https://github.com/riz4d/badges/license)
 
 ### Programming Languages
 
