@@ -40,7 +40,7 @@ Copy the appropriate `![Name](link)` element and paste it in your Markdown file 
     - [Office](#office)
     - [Other](#other)
   - [Contact](https://www.instagram.com/rizad__x96)
-  - [License](https://github.com/riz4d/badges/license)
+  - [License](https://github.com/riz4d/badges/blob/main/LICENSE)
 
 ### Programming Languages
 
