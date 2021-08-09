@@ -5,8 +5,7 @@
 
 Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g., `README.md`)
 
-**Note:** The _for-the-badge_ is just a style that we have chosen for appearance purposes. There are other styles available with https://shields.io#styles. Other styles can be easily used with the below listed badges. Thanks @kingthorin for mentioning this!
-
+**Note:** The _for-the-badge_ is just a style that we have chosen for appearance purposes.
 ## Shortcuts
 
 - [Markdown Badges](#markdown-badges)
